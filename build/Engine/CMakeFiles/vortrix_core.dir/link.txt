@@ -1,2 +1,0 @@
-/data/data/com.termux/files/usr/bin/llvm-ar qc libvortrix_core.a CMakeFiles/vortrix_core.dir/Core/Application.cpp.o CMakeFiles/vortrix_core.dir/Core/Logger.cpp.o
-/data/data/com.termux/files/usr/bin/llvm-ranlib libvortrix_core.a

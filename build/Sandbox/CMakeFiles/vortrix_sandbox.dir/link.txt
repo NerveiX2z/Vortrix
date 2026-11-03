@@ -1,1 +1,0 @@
-/data/data/com.termux/files/usr/bin/c++ -O3 -DNDEBUG -Xlinker --dependency-file=CMakeFiles/vortrix_sandbox.dir/link.d CMakeFiles/vortrix_sandbox.dir/main.cpp.o -o vortrix_sandbox  ../Engine/libvortrix_core.a

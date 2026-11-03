@@ -1,8 +1,0 @@
-/data/data/com.termux/files/home/Vortrix/build/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/Vortrix/build/CMakeFiles/rebuild_cache.dir
-/data/data/com.termux/files/home/Vortrix/build/Engine/CMakeFiles/vortrix_core.dir
-/data/data/com.termux/files/home/Vortrix/build/Engine/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/Vortrix/build/Engine/CMakeFiles/rebuild_cache.dir
-/data/data/com.termux/files/home/Vortrix/build/Sandbox/CMakeFiles/vortrix_sandbox.dir
-/data/data/com.termux/files/home/Vortrix/build/Sandbox/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/Vortrix/build/Sandbox/CMakeFiles/rebuild_cache.dir
