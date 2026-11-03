@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/Vortrix/build/cmake_install.cmake",
+		"/data/data/com.termux/files/home/Vortrix/build/Engine/cmake_install.cmake",
+		"/data/data/com.termux/files/home/Vortrix/build/Sandbox/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
